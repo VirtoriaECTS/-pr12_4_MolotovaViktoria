@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\osnovu_practica12_zad4\bin\Debug\osnovu_practica12_zad4.exe.config
+\\Mac\Home\Desktop\osnovu_practica12_zad4\bin\Debug\osnovu_practica12_zad4.exe
+\\Mac\Home\Desktop\osnovu_practica12_zad4\bin\Debug\osnovu_practica12_zad4.pdb
+\\Mac\Home\Desktop\osnovu_practica12_zad4\obj\Debug\osnovu_practica12_zad4.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\osnovu_practica12_zad4\obj\Debug\osnovu_practica12_zad4.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\osnovu_practica12_zad4\obj\Debug\osnovu_practica12_zad4.Form1.resources
+\\Mac\Home\Desktop\osnovu_practica12_zad4\obj\Debug\osnovu_practica12_zad4.Properties.Resources.resources
+\\Mac\Home\Desktop\osnovu_practica12_zad4\obj\Debug\osnovu_practica12_zad4.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\osnovu_practica12_zad4\obj\Debug\osnovu_practica12_zad4.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\osnovu_practica12_zad4\obj\Debug\osnovu_practica12_zad4.exe
+\\Mac\Home\Desktop\osnovu_practica12_zad4\obj\Debug\osnovu_practica12_zad4.pdb
